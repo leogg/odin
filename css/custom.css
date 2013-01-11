@@ -1,3 +1,30 @@
-h1.superior {
-  margin-top: 50px;
+img.superior {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+
+
+.wrapper, .navbar-even-innerer {
+  margin: 0 auto;
+  width: 600px;
+}
+
+
+#eventos {
+  margin-bottom: 30px;
+}
+
+
+ .wrapper h5 {
+  color: #47ABC8;
+  font-size: 16px;
+  margin-top: 30px;
+}
+
+
+ .wrapper h3 {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 30px;
 }
