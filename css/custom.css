@@ -32,3 +32,11 @@ img.superior {
 div.span12 {
   width:100%;
 }
+
+.btn,
+.btn-info {
+  border-radius:0;
+  -webkit-border-radius:0;
+  -moz-border-radius:0;
+  -o-border-radius:0;
+}
