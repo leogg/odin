@@ -1,5 +1,5 @@
 img.superior {
-  margin-top: 100px;
+  margin-top: 40px;
   margin-bottom: 50px;
 }
 
@@ -27,11 +27,6 @@ img.superior {
   font-weight: bold;
   font-size: 16px;
   margin-top: 30px;
-}
-
-.navbar-inverse, .navbar-inner {
-  opacity:0.9;
-  filter:alpha(opacity=90);*/
 }
 
 div.span12 {
