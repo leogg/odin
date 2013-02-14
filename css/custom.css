@@ -35,7 +35,8 @@ div.span12 {
 }
 
 .btn,
-.btn-info {
+.btn-info,
+.btn-success {
   border-radius:0;
   -webkit-border-radius:0;
   -moz-border-radius:0;
